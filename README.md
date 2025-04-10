@@ -54,7 +54,7 @@ Example:
 
 ## ▶️ How to Use the Script
 
-2. replace YOUR_ORG with the name of your organization:
+2. replace YOUR_TEAM with the name of your team:
 
    ```bash
    TEAM="YOUR_TEAM"
