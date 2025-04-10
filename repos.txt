@@ -1,0 +1,8 @@
+"yourcompnay/your-repository1"
+"yourcompnay/your-repository2"
+"yourcompnay/your-repository3"
+"yourcompnay/your-repository4"
+"yourcompnay/your-repository5"
+"yourcompnay/your-repository6"
+"yourcompnay/your-repository7"
+"yourcompnay/your-repository8"

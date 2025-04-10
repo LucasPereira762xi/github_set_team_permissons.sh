@@ -6,7 +6,7 @@ if [ -z "$1" ]; then
   exit 1
 fi
 
-TEAM="saas-magento"
+TEAM="YOUR_TEAM"
 FILE="$1"
 
 while IFS= read -r line; do
